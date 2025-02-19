@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋! , I'm Himasha Silva <br>I'm an IT undergraduate from University of Moratuwa and currently reading for the degree B.Sc (Hons) Information Technology.
+Hi 👋! , I'm Himasha Silva <br>I'm a Final year IT undergraduate from University of Moratuwa and currently reading for the degree B.Sc (Hons) Information Technology. I have more than 1 year experience in Software Quality Assurance in both Manual Testing and Automation Testing.
 
 
 ## 🌐 Socials:
